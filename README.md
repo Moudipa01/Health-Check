@@ -1,4 +1,4 @@
-# health-app
+# Health-Check
 This web-app will help you out to check the heath of our pc 
 
 ## Download
